@@ -20,6 +20,8 @@ gem 'puma', '~> 3.7'
 gem 'bcrypt', '~> 3.1.7'
 # implementation of JWT token
 gem 'jwt'
+# creating services
+gem 'simple_command'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
